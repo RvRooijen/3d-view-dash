@@ -12,8 +12,6 @@ This project demonstrates a simple integration between a JavaScript application 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/githubnext/workspace-blank.git
-   cd workspace-blank
    ```
 
 2. Install Python dependencies:
@@ -28,7 +26,9 @@ This project demonstrates a simple integration between a JavaScript application 
    python app.py
    ```
 
-2. Open your web browser and navigate to `http://localhost:8050` to view the Dash application.
+2. Open your web browser and navigate to `http://localhost:5000` to view the Dash application.
+
+3. node start
 
 ## Project Structure
 
