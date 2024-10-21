@@ -1,0 +1,17 @@
+{
+  "name": "3d-view-dash",
+  "version": "1.0.0",
+  "description": "This project demonstrates a simple integration between a JavaScript application and a Python Dash application. The two applications communicate via a socket connection, allowing for interactive updates between the JavaScript application and the Dash application.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "io": "^1.5.3",
+    "socket.io": "^4.8.0",
+    "socket.io-client": "^4.8.0"
+  }
+}
