@@ -1,2 +1,1 @@
-# 3d-view-dash
-A repository for a 3D view with Dash and Autodesk Construction Cloud
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
